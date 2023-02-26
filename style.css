@@ -1,0 +1,47 @@
+.contact {
+    text-align: center;
+    color: rgb(226, 29, 233);
+
+}
+.body{
+background-color: rgb(235, 220, 245);
+color: rgb(226, 29, 233);
+}
+.experience{
+    margin-left: 5%;
+}
+.hobbies{
+    color: rgb(226, 29, 233);
+    font-size: medium;
+    margin-left: 10%;
+}
+ .passport{
+ width: 100%; 
+ border-radius: 10%;
+}
+.my_pishur{
+    width: 120px; 
+    border-radius: 10%;
+}
+.portfolio{
+    color: rgb(122, 5, 113); 
+}
+.profile{
+    width: 80%;
+    margin-right: 30;
+}
+
+.table{
+    border-radius: 100%;
+    font-size: medium;
+    margin-left: 20%;
+}
+.referees{
+    font-size: medium;
+    margin-left: 10%;
+    color: rgb(89, 8, 175);
+    font-weight: bold ;
+}
+h3{
+    margin-left: 10%;
+}
